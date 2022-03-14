@@ -1,6 +1,6 @@
 ## Welcome to My Page
 
-Hello.
+Hello World!
 
 ### Introduction
 
